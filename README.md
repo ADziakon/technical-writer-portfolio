@@ -53,10 +53,10 @@ _(You can upload it to Google Drive with public access or host via GitHub Pages)
 
 ## 🌍 Languages Available
 
-- [🇬🇧 English](#/en/)
-- [🇷🇺 Русский](#/ru/)
-- [🇧🇾 Беларуская](#/be/)
-- [🇵🇱 Polski](#/pl/)
+- [🇬🇧 English](docs/en/)
+- [🇷🇺 Русский](docs/ru/)
+- [🇧🇾 Беларуская](docs/be/)
+- [🇵🇱 Polski](docs/pl/)
 
 ---
 
