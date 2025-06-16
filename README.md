@@ -53,8 +53,8 @@ _(You can upload it to Google Drive with public access or host via GitHub Pages)
 
 ## 🌍 Languages Available
 
-- [🇬🇧 English](docs/en/)
-- [🇷🇺 Русский](docs/ru/)
+- <a href="docs/en/" target="_self" rel="external">🇬🇧 English</a>  
+- <a href="docs/ru/" target="_self" rel="external">🇷🇺 Русский</a>  
 - [🇧🇾 Беларуская](docs/be/)
 - [🇵🇱 Polski](docs/pl/)
 
