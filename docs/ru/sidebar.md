@@ -1,3 +1,5 @@
+- <a href="/" target="_self" rel="external">⬅ На главную страницу</a>
+
 - [🏠 Главная](README.md)
 - [📘 Обзор проекта](product-overview.md)
 - [📘 Документация API](api.md)
